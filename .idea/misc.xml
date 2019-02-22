@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="9.0" project-jdk-type="JavaSDK">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/mavenday02_parent02/mavenday02_web" />
   </component>
