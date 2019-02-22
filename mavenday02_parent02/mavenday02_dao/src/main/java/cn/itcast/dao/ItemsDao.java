@@ -15,6 +15,9 @@ public interface ItemsDao {
     //查询所有
     @Select("select * from items")
     List<Items> findAll();
+    /**
+     * 什么鬼东西啊啊啊大萨达所多委屈
+     */
 
     //给你加个鸡儿
     //都是时辰的错
