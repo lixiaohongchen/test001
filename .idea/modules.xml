@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mavenday02_parent02/mavenday02_web/target/tomcat/work/Tomcat/localhost/localhost.iml" filepath="$PROJECT_DIR$/mavenday02_parent02/mavenday02_web/target/tomcat/work/Tomcat/localhost/localhost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenday02_parent02/mavenday02_service/src/main/main.iml" filepath="$PROJECT_DIR$/mavenday02_parent02/mavenday02_service/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenday02_parent02/mavenday02_dao/src/main/main1.iml" filepath="$PROJECT_DIR$/mavenday02_parent02/mavenday02_dao/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenday02_parent02/mavenday02_web/src/main/main2.iml" filepath="$PROJECT_DIR$/mavenday02_parent02/mavenday02_web/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenday02_parent02/mavenday02_dao/mavenday02_dao.iml" filepath="$PROJECT_DIR$/mavenday02_parent02/mavenday02_dao/mavenday02_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenday02_parent02/mavenday02_parent02.iml" filepath="$PROJECT_DIR$/mavenday02_parent02/mavenday02_parent02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenday02_parent02/mavenday02_service/mavenday02_service.iml" filepath="$PROJECT_DIR$/mavenday02_parent02/mavenday02_service/mavenday02_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenday02_parent02/mavenday02_web/mavenday02_web.iml" filepath="$PROJECT_DIR$/mavenday02_parent02/mavenday02_web/mavenday02_web.iml" />
+    </modules>
+  </component>
+</project>
