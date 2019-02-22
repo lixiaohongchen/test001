@@ -15,4 +15,7 @@ public interface ItemsDao {
     //查询所有
     @Select("select * from items")
     List<Items> findAll();
+    /**
+     * 什么
+     */
 }
