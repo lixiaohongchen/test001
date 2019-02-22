@@ -4,9 +4,15 @@ import cn.itcast.domain.Items;
 import org.apache.ibatis.annotations.Select;
 import org.springframework.stereotype.Repository;
 
+import java.util.List;
+
 @Repository("itemsDao")
 public interface ItemsDao {
 
     @Select("select * from items where id = #{id}")
     public Items findOne(Integer id);
+
+    //查询所有
+    @Select("select * from items")
+    List<Items> findAll();
 }
