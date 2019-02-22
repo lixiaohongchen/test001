@@ -17,5 +17,4 @@ public interface ItemsDao {
     List<Items> findAll();
 
     //给你加个鸡儿
-    //123
 }
